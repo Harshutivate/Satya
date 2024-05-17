@@ -1,11 +1,4 @@
-'''height = float(input("Enter height: "))
-weight = float(input("Enter weight: "))
-
-BMI = weight/(height*height)
-
-print("This is the calculated Bmi value:",BMI,type(BMI))'''
-
-
+'''
 def get_inputs():
     height = float(input("Enter height: "))
     weight = float(input("Enter weight: "))
@@ -21,4 +14,5 @@ def main():
     print("This is the calculated Bmi value:",BMI,type(BMI))
 
 if __name__ == "__main__":
-  main()
+  main()'''
+
